@@ -93,5 +93,6 @@ AIが問107などで「420通り」という、もっともらしい誤答を一
 
 ---
 📄 **本ドキュメントの検証原本および、全問題の解答・解説Excelシートはこちらからダウンロードいただけます。**
-* [SPI対策：場合の数についての問題と解説シート (.xlsx)](./supplementary-materials/SPI対策で紹介した場合の数についての問題と解説シート.xlsx)
+* [シューティングゲームを題材にコード分析方法の解説シート (.xlsx)](./supplementary-materials/shooting_game.xlsx)
+* [SPI対策：場合の数についての問題と解説シート (.xlsx)](./supplementary-materials/場合の数問題と解答.xlsx.xlsx)
 
