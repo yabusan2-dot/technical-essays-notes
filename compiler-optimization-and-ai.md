@@ -72,5 +72,5 @@ graph TD
 
 ---
 📄 **本検証の物理測定ログおよび、C/Javaの実行環境設定を含む原本Excelシートはこちらからダウンロードいただけます。**
-* [ビットカウント各コードの詳細解説シート (.xlsx)](./supplementary-materials/ビットカウント各コードの詳細解説シート.xlsx)
+* [ビットカウント各コードの詳細解説シート (.xlsx)](./supplementary-materials/ビットカウント.xlsx)
 
