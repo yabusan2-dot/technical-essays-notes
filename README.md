@@ -6,7 +6,8 @@
 1. **AI時代におけるロジックの重要性とLLMの限界検証** (`./ai-benchmark-logic.md`) - 主要4大AIへの同一問題ベンチマーク調査と局所解の解説。https://github.com/yabusan2-dot/technical-essays-notes/blob/main/ai-benchmark-logic.md
 2. **1バイトの処理から数理宇宙へ：ビットカウントアルゴリズムの探求** (`./bitcount-topology.md`) - ハミング重量の6つのアプローチの検証と数学的考察。https://github.com/yabusan2-dot/technical-essays-notes/blob/main/bitcount-topology.md
 3. **コンパイラ最適化と生成AI（LLM）の相似性検証** (`./compiler-optimization-and-ai.md`) - 「コンパイラ」と「生成AI」に共通する設計思想の考察。https://github.com/yabusan2-dot/technical-essays-notes/blob/main/compiler-optimization-and-ai.md
-4. **剰余算術から楕円曲線へ：計算機限界を超える数理暗号の実証ログ** (`./doublePoint.md`) - 暗号理論の基礎的解説　https://github.com/yabusan2-dot/technical-essays-notes/blob/main/doublePoint.md
+4. **剰余算術から楕円曲線へ：計算機限界を超える数理暗号の実証ログ** (`./doublePoint.md`) - 暗号理論の基礎的解説 https://github.com/yabusan2-dot/technical-essays-notes/blob/main/doublePoint.md
+5. **ソルバーとしての生成AIと「使いこなすための抽象化能力」** (`./expert_method.md`) - 『普遍的知性』の考察。https://github.com/yabusan2-dot/technical-essays-notes/blob/main/expert_method.md 
 
 ## 📥 補足データ・検証用Excelシート
 * [シューティングゲームを題材にしたコード分析方法の解説シート (.xlsx)](./supplementary-materials/shooting_game.xlsx)
