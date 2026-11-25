@@ -11,7 +11,7 @@
 6. **中小企業のための「失敗しないAI導入」実践チェックリスト** (`./for_Implementing_AI.md`) - 『AIの効果的な導入方法』について。https://github.com/yabusan2-dot/technical-essays-notes/blob/main/for_Implementing_AI.md
 7. **GitHub Desktopを活用した安全な開発フロー（ブランチ運用編）** (`./gitHub_development.md`) - GitHub Desktopの活用について。https://github.com/yabusan2-dot/technical-essays-notes/blob/main/gitHub_development.md
 8. **なぜコマンドプロンプトで動くのに PowerShell で落ちるのか？** (`./high_difficulty_setting.md`) - CMD と PowerShell の差異について。https://github.com/yabusan2-dot/technical-essays-notes/blob/main/high_difficulty_setting.md
-
+9. **情報の熱的死とAIとの協創** (`./information_entropy_and_ai.md`) - 「情報の熱的死」に陥らないために。https://github.com/yabusan2-dot/technical-essays-notes/blob/main/information_entropy_and_ai.md
 
 ## 📥 補足データ・検証用Excelシート
 * [シューティングゲームを題材にしたコード分析方法の解説シート (.xlsx)](./supplementary-materials/shooting_game.xlsx)
